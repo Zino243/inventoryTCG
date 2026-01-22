@@ -1,0 +1,85 @@
+{
+  "decks": [
+    {
+      "id": "maze_001",
+      "name": "Tempered Steel Aggro",
+      "format": "Modern",
+      "description": "Mazo agresivo basado en artefactos baratos",
+      "cards": [
+        {
+          "card_id": "143cf473-681c-41b3-8719-55b878382368",
+          "name": "Tempered Steel",
+          "quantity_required": 4,
+          "is_owned": true
+        },
+        {
+          "card_id": "a1b2c3d4-equip-signal-pest",
+          "name": "Signal Pest",
+          "quantity_required": 4,
+          "is_owned": false,
+          "note": "Comprar o sustituir por alternativa"
+        },
+        {
+          "card_id": "z9y8x7w6-mox-opal",
+          "name": "Mox Opal",
+          "quantity_required": 2,
+          "is_owned": false,
+          "note": "Muy caro, usar proxy"
+        }
+      ]
+    },
+    {
+      "id": "maze_002",
+      "name": "Mono Green Stompy",
+      "format": "Casual",
+      "description": "Criaturas grandes y presión constante",
+      "cards": [
+        {
+          "card_id": "forest-basic-land",
+          "name": "Forest",
+          "quantity_required": 20,
+          "is_owned": true
+        },
+        {
+          "card_id": "steel-leaf-champion-id",
+          "name": "Steel Leaf Champion",
+          "quantity_required": 4,
+          "is_owned": true
+        },
+        {
+          "card_id": "questing-beast-id",
+          "name": "Questing Beast",
+          "quantity_required": 2,
+          "is_owned": false
+        }
+      ]
+    },
+    {
+      "id": "maze_003",
+      "name": "Esper Control",
+      "format": "Commander",
+      "description": "Control lento con wincon tardía",
+      "cards": [
+        {
+          "card_id": "sol-ring-id",
+          "name": "Sol Ring",
+          "quantity_required": 1,
+          "is_owned": true
+        },
+        {
+          "card_id": "supreme-verdict-id",
+          "name": "Supreme Verdict",
+          "quantity_required": 1,
+          "is_owned": false
+        },
+        {
+          "card_id": "teferi-hero-of-dominaria-id",
+          "name": "Teferi, Hero of Dominaria",
+          "quantity_required": 1,
+          "is_owned": false,
+          "note": "Prioridad media"
+        }
+      ]
+    }
+  ]
+}
