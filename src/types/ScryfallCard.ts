@@ -1,25 +1,3 @@
-export interface CardInfoProps {
-  inventoryItemId: string;
-  card: {
-    name: string;
-    scryfallId: string;
-    setCode: string;
-    setName: string;
-    collectorNumber: number;
-    rarity: string;
-  };
-  quantity: number;
-  foil: string;
-  condition: string;
-  language: string;
-  misprint: boolean;
-  altered: boolean;
-  purchase: {
-    price: number;
-    currency: string;
-  };
-}
-
 export interface ScryfallCard {
   id: string
   name: string
@@ -59,17 +37,4 @@ export interface ScryfallCard {
   collector_number?: string
   layout?: string
   flavor_text?: string
-}
-
-export interface ManaBoxExport {
-  count: number
-  name: string
-  set_code: string
-  collector_number: string
-  is_foil: boolean
-
-  is_commander?: boolean
-  is_basic_land?: boolean
-  raw_line?: string
-  image_url?: string
 }

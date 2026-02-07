@@ -1,0 +1,97 @@
+// COMMANDER
+1 Admiral Brass, Unsinkable (LCC) 17
+
+1 Amphin Mutineer (TDC) 143
+1 An Offer You Can't Refuse (FDN) 160
+1 Angrath's Marauders (OTC) 153
+1 Arcane Signet (P30M) 1P *F*
+1 Arena of Glory (MH3) 215
+1 Black Market Connections (LCC) 181
+1 Blasphemous Act (BRC) 113
+1 Blood Crypt (RTR) 238
+1 Bloodstained Mire (MH3) 216
+1 Breeches, Eager Pillager (LCI) 137
+1 Broadside Bombardiers (LCC) 86
+1 Buried Alive (MH3) 273
+1 Captivating Crew (OTC) 159
+1 Changeling Outcast (OTC) 128
+1 Chaos Warp (PW24) 7 *F*
+1 Choked Estuary (MKC) 254
+1 Coercive Recruiter (LCC) 222
+1 Collector's Vault (WOE) 244
+1 Command Tower (CMM) 659
+1 Cover of Darkness (ACR) 89
+1 Crumbling Necropolis (LCC) 326
+1 Dark Ritual (FCA) 8
+1 Darkness (40K) 197
+1 Deadly Dispute (TDC) 177
+1 Demand Answers (MKM) 122
+1 Demonic Tutor (CMM) 150
+1 Diabolic Intent (FCA) 34
+1 Double Down (OTJ) 44
+1 Edward Kenway (ACR) 143
+1 Exotic Orchard (EOC) 159
+1 Faithless Looting (OTC) 165
+1 Flare of Denial (MH3) 62
+1 Foreboding Ruins (DSC) 277
+1 Gemcutter Buccaneer (LCC) 87
+1 Gloomlake Verge (DSK) 260
+1 Graveshifter (M3C) 198
+1 Heirloom Blade (LCC) 303
+1 Herald's Horn (FIC) 228 *F*
+1 Hidden Grotto (BLB) 254
+1 Horizon of Progress (M3C) 130
+1 Imp's Mischief (OTP) 15
+1 Inspiration from Beyond (FDN) 43
+1 Invert Polarity (MH3) 190
+1 Island (NEO) 296
+5 Island (ACR) 103
+1 Lively Dirge (OTJ) 93
+1 Malcolm, Alluring Scoundrel (LCI) 293
+1 Malcolm, Keen-Eyed Navigator (LCC) 161
+1 Mary Read and Anne Bonny (ACR) 120
+1 Merchant Raiders (LCC) 163
+1 Mimic Vat (NCC) 372
+1 Molten Echoes (VOC) 148
+2 Mountain (OTJ) 275
+1 Mystic Remora (ICE) 87
+1 Nanogene Conversion (WHO) 49
+1 Nephalia Drownyard (LCC) 344
+1 Nesting Grounds (MH3) 302
+1 Panharmonicon (PIP) 237
+1 Patchwork Banner (BLB) 247
+1 Path of Ancestry (TDC) 382
+1 Personal Tutor (CMM) 110
+1 Pitiless Plunderer (LCC) 208
+1 Port Razer (LCC) 230
+1 Port of Karfell (MKC) 280
+1 Propaganda (ACR) 85
+1 Ramirez DePietro, Pillager (LCC) 285
+1 Reanimate (OTP) 18
+1 Relentless Assault (CMR) 416
+1 Return the Favor (OTJ) 142
+1 Revel in Riches (XLN) 117
+1 Rhystic Study (J22) 114
+1 Ripples of Undeath (MH3) 107
+1 Roaming Throne (LCI) 258
+1 Sapphire Medallion (MH3) 296
+1 Secluded Courtyard (SPG) 63
+1 See Double (MOM) 77
+1 Shadowblood Ridge (DSC) 296
+1 Shared Animosity (WOT) 49
+1 Siren Stormtamer (LCC) 171
+1 Skeleton Crew (LCC) 85
+1 Smoldering Marsh (EOC) 182
+1 Sol Ring (PFDN) 1 *F*
+1 Spectral Sailor (J22) 64
+1 Spirebluff Canal (OTJ) 304
+1 Strix Serenade (MH3) 327
+1 Sulfur Falls (LCC) 354
+1 Sunken Hollow (TDC) 398
+1 Swamp (ACR) 105
+1 Tainted Peak (DSC) 304
+1 Three Tree City (BLB) 260
+1 Timestream Navigator (LCC) 178
+1 Unsummon (M20) 78
+1 Urza's Incubator (MH3) 297
+1 Wonder (MH2) 271
